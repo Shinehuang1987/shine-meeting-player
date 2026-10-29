@@ -1,0 +1,9 @@
+{
+  "id": "shine-meeting-player",
+  "name": "Shine Meeting Player",
+  "version": "0.3.0",
+  "minAppVersion": "1.7.2",
+  "description": "Local audio playback with synchronized timestamped meeting transcripts and excerpts.",
+  "author": "Shine",
+  "isDesktopOnly": false
+}
